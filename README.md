@@ -23,6 +23,10 @@ Verification:
 Nguyen Bac Anh
 Nguyen Van Tinh
 
+Note:
+RTL source files are included for completeness of the verification environment.
+My contribution focused on verification activities and not RTL implementation.
+
 ---
 
 ## My Contributions
