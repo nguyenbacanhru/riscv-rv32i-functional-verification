@@ -20,7 +20,7 @@ RTL Design:
 Nguyen Tuan Nghia
 
 Verification:
-Nguyen Bac Anh
+Nguyen Bac Anh &
 Nguyen Van Tinh
 
 Note:
